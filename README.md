@@ -10,18 +10,11 @@
   most popular Python web scraping libraries.
 
 **How to scrape the web(step-bystep)**:
+   1. Discover the URL you wish to scrape
+   2. Examine the webpage
+   3. Determine the specific data you intend to extract
+   4. Develop the requied code 
+   5. Run the code
+   6. Save the extracted data 
 
-    1.Locate the URLs you wish to scrape.
-    
-    2.Examine the page.
-    
-    3.Determine the specific data you intend to extract.
-    
-    4.Develop the required code.
-    
-    5.Run the code.
-    
-    6.Save the collected data.
-
-
-I've worked on a few web scraping projects here
+Here, I've worked on a few web scraping projects with BeautifulSoup
