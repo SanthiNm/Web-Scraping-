@@ -1,4 +1,4 @@
-Web Scraping : What is it?
+**Web Scraping : What is it?**
 
 Web scraping is one of the most efficient and useful methods of extracting data from a website
 
